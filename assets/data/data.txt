@@ -1,0 +1,1307 @@
+transactTime,"symbol","execType","side","lastQty","lastPx","execCost","commission","execComm","ordType","orderQty","leavesQty","price","text","orderID","orderID2"
+31.5.2020, 02:06:52,"XBTUSD","Trade","Sell","15000","9668","155145000","0.00075","116358","Stop","15000","0","9668","Triggered: Order stop price reached
+Submitted via API.","d30a2ab4-fe57-3801-59f6-9a65fa69da4c"
+31.5.2020, 00:43:32,"XBTUSD","Trade","Buy","15000","9587","-156465000","0.00075","117348","Stop","15000","0","9587","Triggered: Order stop price reached
+Submitted via API.","73ef7bdc-6c65-602e-847b-c0811bcde951"
+30.5.2020, 02:00:21,"XBTUSD","Trade","Sell","15000","9427","159120000","0.00075","119340","Market","15000","0","9427","Submitted via API.","159bbca4-5752-017a-c8af-56f71db51817"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","248","9449","-2624584","0.00075","1968","Stop","15000","0","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","1500","9449","-15874500","0.00075","11905","Stop","15000","248","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","100","9449","-1058300","0.00075","793","Stop","15000","1748","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","120","9449","-1269960","0.00075","952","Stop","15000","1848","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","2000","9449","-21166000","0.00075","15874","Stop","15000","1968","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","5000","9449","-52915000","0.00075","39686","Stop","15000","3968","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","231","9449","-2444673","0.00075","1833","Stop","15000","8968","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","118","9449","-1248794","0.00075","936","Stop","15000","9199","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","16","9449","-169328","0.00075","126","Stop","15000","9317","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","300","9449","-3174900","0.00075","2381","Stop","15000","9333","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","400","9449","-4233200","0.00075","3174","Stop","15000","9633","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","27","9449","-285741","0.00075","214","Stop","15000","10033","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","25","9449","-264575","0.00075","198","Stop","15000","10060","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","100","9449","-1058300","0.00075","793","Stop","15000","10085","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","2000","9449","-21166000","0.00075","15874","Stop","15000","10185","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","89","9449","-941887","0.00075","706","Stop","15000","12185","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","100","9449","-1058300","0.00075","793","Stop","15000","12274","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","50","9449","-529150","0.00075","396","Stop","15000","12374","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","100","9449","-1058300","0.00075","793","Stop","15000","12424","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","1533","9449","-16223739","0.00075","12167","Stop","15000","12524","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","100","9449","-1058300","0.00075","793","Stop","15000","14057","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","50","9449","-529150","0.00075","396","Stop","15000","14157","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","210","9449","-2222430","0.00075","1666","Stop","15000","14207","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+30.5.2020, 01:28:22,"XBTUSD","Trade","Buy","583","9449","-6169889","0.00075","4627","Stop","15000","14417","9449","Triggered: Order stop price reached
+Submitted via API.","5636ec5e-869d-27fd-ccec-8afa03f367f1"
+29.5.2020, 10:23:52,"XBTUSD","Trade","Sell","15000","9455","158640000","0.00075","118980","Stop","15000","0","9455","Triggered: Order stop price reached
+Submitted via API.","26b5fe28-3218-6ad3-616d-996df5ba037b"
+29.5.2020, 10:14:15,"XBTUSD","Trade","Buy","2170","9553","-22715560","0.00075","17036","Stop","15000","0","9553","Triggered: Order stop price reached
+Submitted via API.","e3949626-8bdb-8138-54c6-add28c2ed4d8"
+29.5.2020, 10:14:15,"XBTUSD","Trade","Buy","12830","9551","-134330100","0.00075","100747","Stop","15000","2170","9553","Triggered: Order stop price reached
+Submitted via API.","e3949626-8bdb-8138-54c6-add28c2ed4d8"
+29.5.2020, 02:12:52,"XBTUSD","Trade","Sell","15000","9548.5","157095000","0.00075","117821","Stop","15000","0","9548.5","Triggered: Order stop price reached
+Submitted via API.","ce5cae3b-5d8c-1878-8d64-82e39d2010b4"
+29.5.2020, 00:45:27,"XBTUSD","Trade","Buy","2510","9550.5","-26282210","0.00075","19711","Stop","15000","0","9550.5","Triggered: Order stop price reached
+Submitted via API.","f09ecd2d-1b54-7385-17d6-01864948b0d1"
+29.5.2020, 00:45:27,"XBTUSD","Trade","Buy","1000","9550.5","-10471000","0.00075","7853","Stop","15000","2510","9550.5","Triggered: Order stop price reached
+Submitted via API.","f09ecd2d-1b54-7385-17d6-01864948b0d1"
+29.5.2020, 00:45:27,"XBTUSD","Trade","Buy","11490","9550.5","-120311790","0.00075","90233","Stop","15000","3510","9550.5","Triggered: Order stop price reached
+Submitted via API.","f09ecd2d-1b54-7385-17d6-01864948b0d1"
+28.5.2020, 18:01:14,"XBTUSD","Trade","Sell","833","9491","8776488","0.00075","6582","Stop","15000","0","9491","Triggered: Order stop price reached
+Submitted via API.","036754a8-7129-4361-9bf5-6ff3d12d647f"
+28.5.2020, 18:01:14,"XBTUSD","Trade","Sell","14167","9491","149263512","0.00075","111947","Stop","15000","833","9491","Triggered: Order stop price reached
+Submitted via API.","036754a8-7129-4361-9bf5-6ff3d12d647f"
+28.5.2020, 14:07:57,"XBTUSD","Trade","Buy","15000","9306.5","-161175000","0.00075","120881","Stop","15000","0","9306.5","Triggered: Order stop price reached
+Submitted via API.","cdc35f3a-057a-2394-57b5-4893b396183c"
+28.5.2020, 04:00:13,"XBTUSD","Trade","Sell","15000","9221","162675000","0.00075","122006","Market","15000","0","9221","Submitted via API.","edb6206c-5011-339c-3e7b-e9fd217cad8c"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","5102","9230","-55275068","0.00075","41456","Stop","15000","0","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","48","9230","-520032","0.00075","390","Stop","15000","5102","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","33","9230","-357522","0.00075","268","Stop","15000","5150","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","33","9230","-357522","0.00075","268","Stop","15000","5183","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","278","9230","-3011852","0.00075","2258","Stop","15000","5216","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","278","9230","-3011852","0.00075","2258","Stop","15000","5494","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","8","9230","-86672","0.00075","65","Stop","15000","5772","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+28.5.2020, 02:59:06,"XBTUSD","Trade","Buy","9220","9230","-99889480","0.00075","74917","Stop","15000","5780","9230","Triggered: Order stop price reached
+Submitted via API.","6f3ecf65-e1f9-5b7f-75ad-c1a5317700d4"
+27.5.2020, 16:00:26,"XBTUSD","Trade","Sell","15000","9144","164040000","0.00075","123030","Market","15000","0","9144","Submitted via API.","0cf603da-d065-af75-94f4-c22f3602f5f8"
+27.5.2020, 14:00:00,"XBTUSD","Funding","","15000","9150.4","-163920000","0.000048","7868","Limit","15000","0","9150.4","Funding","00000000-0000-0000-0000-000000000000"
+27.5.2020, 12:29:46,"XBTUSD","Trade","Buy","15000","9017.5","-166350000","0.00075","124762","Stop","15000","0","9017.5","Triggered: Order stop price reached
+Submitted via API.","9b9b8c7e-c52c-bffc-4d06-b9615c1274b3"
+26.5.2020, 11:30:32,"XBTUSD","Trade","Sell","15000","8882.5","168870000","0.00075","126652","Stop","15000","0","8882.5","Triggered: Order stop price reached
+Submitted via API.","7eb202da-8041-f70c-06a9-4abcdd87aae1"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","6975","8981.5","-77659650","0.00075","58244","Stop","15000","0","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","234","8981.5","-2605356","0.00075","1954","Stop","15000","6975","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","2000","8981.5","-22268000","0.00075","16701","Stop","15000","7209","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","5000","8981.5","-55670000","0.00075","41752","Stop","15000","9209","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","6","8981.5","-66804","0.00075","50","Stop","15000","14209","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","40","8981.5","-445360","0.00075","334","Stop","15000","14215","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","60","8981.5","-668040","0.00075","501","Stop","15000","14255","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","140","8981.5","-1558760","0.00075","1169","Stop","15000","14315","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","30","8981.5","-334020","0.00075","250","Stop","15000","14455","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+26.5.2020, 10:06:26,"XBTUSD","Trade","Buy","515","8981.5","-5734010","0.00075","4300","Stop","15000","14485","8981.5","Triggered: Order stop price reached
+Submitted via API.","9a59a2d6-0635-2daa-7c4e-8895507dc734"
+25.5.2020, 22:17:48,"XBTUSD","Trade","Sell","15000","8926.5","168045000","0.00075","126033","Stop","15000","0","8926.5","Triggered: Order stop price reached
+Submitted via API.","bddc0bab-eec7-36dc-00cb-a212e9a6ab40"
+25.5.2020, 22:00:00,"XBTUSD","Funding","","15000","8936.22","-167850000","-0.000147","-24674","Limit","15000","0","8936.22","Funding","00000000-0000-0000-0000-000000000000"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","6513","8877","-73368945","0.00075","55026","Stop","15000","0","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","100","8877","-1126500","0.00075","844","Stop","15000","6513","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","500","8877","-5632500","0.00075","4224","Stop","15000","6613","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","100","8877","-1126500","0.00075","844","Stop","15000","7113","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","20","8877","-225300","0.00075","168","Stop","15000","7213","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","130","8877","-1464450","0.00075","1098","Stop","15000","7233","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","450","8877","-5069250","0.00075","3801","Stop","15000","7363","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","28","8877","-315420","0.00075","236","Stop","15000","7813","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","60","8877","-675900","0.00075","506","Stop","15000","7841","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","53","8877","-597045","0.00075","447","Stop","15000","7901","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","60","8877","-675900","0.00075","506","Stop","15000","7954","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","14","8877","-157710","0.00075","118","Stop","15000","8014","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","3200","8877","-36048000","0.00075","27036","Stop","15000","8028","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","2000","8877","-22530000","0.00075","16897","Stop","15000","11228","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 19:35:03,"XBTUSD","Trade","Buy","1772","8877","-19961580","0.00075","14971","Stop","15000","13228","8877","Triggered: Order stop price reached
+Submitted via API.","823421e9-0533-bf34-fc5d-d995c354c2a3"
+25.5.2020, 10:16:39,"XBTUSD","Trade","Sell","15000","8828","169920000","0.00075","127440","Stop","15000","0","8828","Triggered: Order stop price reached
+Submitted via API.","137ddf6b-3d78-ead1-6a63-d3f5262ef4f9"
+25.5.2020, 09:32:43,"XBTUSD","Trade","Buy","2802","8815","-31785888","0.00075","23839","Stop","15000","0","8815","Triggered: Order stop price reached
+Submitted via API.","f809edd9-be07-0642-1d62-65ef3099ab25"
+25.5.2020, 09:32:43,"XBTUSD","Trade","Buy","10000","8815","-113440000","0.00075","85080","Stop","15000","2802","8815","Triggered: Order stop price reached
+Submitted via API.","f809edd9-be07-0642-1d62-65ef3099ab25"
+25.5.2020, 09:32:43,"XBTUSD","Trade","Buy","2198","8814.5","-24936310","0.00075","18702","Stop","15000","12802","8815","Triggered: Order stop price reached
+Submitted via API.","f809edd9-be07-0642-1d62-65ef3099ab25"
+23.5.2020, 04:00:12,"XBTUSD","Trade","Sell","3233","9237.5","34997225","0.00075","26247","Market","15000","0","9237.5","Submitted via API.","3f45618f-58f0-9783-843e-d03943e38b00"
+23.5.2020, 04:00:12,"XBTUSD","Trade","Sell","1500","9237.5","16237500","0.00075","12178","Market","15000","3233","9237.5","Submitted via API.","3f45618f-58f0-9783-843e-d03943e38b00"
+23.5.2020, 04:00:12,"XBTUSD","Trade","Sell","1500","9237.5","16237500","0.00075","12178","Market","15000","4733","9237.5","Submitted via API.","3f45618f-58f0-9783-843e-d03943e38b00"
+23.5.2020, 04:00:12,"XBTUSD","Trade","Sell","8767","9237.5","94902775","0.00075","71177","Market","15000","6233","9237.5","Submitted via API.","3f45618f-58f0-9783-843e-d03943e38b00"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","1898","9265","-20485114","0.00075","15363","Stop","15000","0","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","1","9265","-10793","0.00075","8","Stop","15000","1898","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","25","9265","-269825","0.00075","202","Stop","15000","1899","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","25","9265","-269825","0.00075","202","Stop","15000","1924","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","50","9265","-539650","0.00075","404","Stop","15000","1949","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","24","9265","-259032","0.00075","194","Stop","15000","1999","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","47","9265","-507271","0.00075","380","Stop","15000","2023","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","100","9265","-1079300","0.00075","809","Stop","15000","2070","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","1000","9265","-10793000","0.00075","8094","Stop","15000","2170","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","10000","9265","-107930000","0.00075","80947","Stop","15000","3170","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+23.5.2020, 03:14:29,"XBTUSD","Trade","Buy","1830","9265","-19751190","0.00075","14813","Stop","15000","13170","9265","Triggered: Order stop price reached
+Submitted via API.","c552fa9e-2eef-f208-1b69-f024217c7c2b"
+20.5.2020, 08:44:35,"XBTUSD","Trade","Sell","8950","9724.5","92032850","0.00075","69024","Stop","15000","0","9724.5","Triggered: Order stop price reached
+Submitted via API.","3423fe1e-d364-acac-9b3d-07a421be4698"
+20.5.2020, 08:44:35,"XBTUSD","Trade","Sell","6050","9724.5","62212150","0.00075","46659","Stop","15000","8950","9724.5","Triggered: Order stop price reached
+Submitted via API.","3423fe1e-d364-acac-9b3d-07a421be4698"
+20.5.2020, 08:30:18,"XBTUSD","Trade","Buy","15000","9820","-152745000","0.00075","114558","Stop","15000","0","9820","Triggered: Order stop price reached
+Submitted via API.","658ffcb1-5e88-f7e3-c278-b5d414eed58e"
+20.5.2020, 02:30:17,"XBTUSD","Trade","Sell","15000","9750","153840000","0.00075","115380","Stop","15000","0","9750","Triggered: Order stop price reached
+Submitted via API.","7296502b-1b66-f0ef-c273-de81ab5467ab"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","448","9736.5","-4601408","0.00075","3451","Stop","15000","0","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","100","9736","-1027100","0.00075","770","Stop","15000","448","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","100","9736","-1027100","0.00075","770","Stop","15000","548","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","50","9736","-513550","0.00075","385","Stop","15000","648","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","50","9736","-513550","0.00075","385","Stop","15000","698","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","5000","9736","-51355000","0.00075","38516","Stop","15000","748","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","53","9736","-544363","0.00075","408","Stop","15000","5748","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+20.5.2020, 00:31:33,"XBTUSD","Trade","Buy","9199","9736","-94482929","0.00075","70862","Stop","15000","5801","9736.5","Triggered: Order stop price reached
+Submitted via API.","5fc96429-3dea-414e-5e18-02c0b691f60c"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","529","9755","5422779","0.00075","4067","Stop","15000","0","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","25","9755","256275","0.00075","192","Stop","15000","529","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","200","9755","2050200","0.00075","1537","Stop","15000","554","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","500","9755","5125500","0.00075","3844","Stop","15000","754","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","869","9755","8908119","0.00075","6681","Stop","15000","1254","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","2123","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","210","9755","2152710","0.00075","1614","Stop","15000","3123","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1250","9755","12813750","0.00075","9610","Stop","15000","3333","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4583","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4613","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4643","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4673","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4703","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4733","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4763","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4793","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4823","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","30","9755","307530","0.00075","230","Stop","15000","4853","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","4883","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","5000","9755","51255000","0.00075","38441","Stop","15000","5883","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","112","9755","1148112","0.00075","861","Stop","15000","10883","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","10995","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","11995","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","12995","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","1000","9755","10251000","0.00075","7688","Stop","15000","13995","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 13:29:46,"XBTUSD","Trade","Sell","5","9755","51255","0.00075","38","Stop","15000","14995","9755","Triggered: Order stop price reached
+Submitted via API.","4be92658-dfae-33d6-c3df-a4bcf76e1818"
+19.5.2020, 10:16:57,"XBTUSD","Trade","Buy","4726","9748","-48484034","0.00075","36363","Stop","15000","0","9748","Triggered: Order stop price reached
+Submitted via API.","8f616dc3-019e-8f94-1bc1-e4ccd5e5519d"
+19.5.2020, 10:16:57,"XBTUSD","Trade","Buy","500","9748","-5129500","0.00075","3847","Stop","15000","4726","9748","Triggered: Order stop price reached
+Submitted via API.","8f616dc3-019e-8f94-1bc1-e4ccd5e5519d"
+19.5.2020, 10:16:57,"XBTUSD","Trade","Buy","50","9748","-512950","0.00075","384","Stop","15000","5226","9748","Triggered: Order stop price reached
+Submitted via API.","8f616dc3-019e-8f94-1bc1-e4ccd5e5519d"
+19.5.2020, 10:16:57,"XBTUSD","Trade","Buy","30","9747.5","-307770","0.00075","230","Stop","15000","5276","9748","Triggered: Order stop price reached
+Submitted via API.","8f616dc3-019e-8f94-1bc1-e4ccd5e5519d"
+19.5.2020, 10:16:57,"XBTUSD","Trade","Buy","9694","9747.5","-99450746","0.00075","74588","Stop","15000","5306","9748","Triggered: Order stop price reached
+Submitted via API.","8f616dc3-019e-8f94-1bc1-e4ccd5e5519d"
+18.5.2020, 04:14:47,"XBTUSD","Trade","Sell","15000","9871","151965000","0.00075","113973","Stop","15000","0","9871","Triggered: Order stop price reached
+Submitted via API.","7b375ab2-c91c-a509-0d04-4929f8d96204"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","187","9795","-1909083","0.00075","1431","Stop","15000","0","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","519","9795","-5298471","0.00075","3973","Stop","15000","187","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","50","9795","-510450","0.00075","382","Stop","15000","706","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","195","9795","-1990755","0.00075","1493","Stop","15000","756","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","400","9795","-4083600","0.00075","3062","Stop","15000","951","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+18.5.2020, 03:06:51,"XBTUSD","Trade","Buy","13649","9795","-139342641","0.00075","104506","Stop","15000","1351","9795","Triggered: Order stop price reached
+Submitted via API.","719ed156-05a9-8b70-145b-fc89ac1cd897"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","1404","9507","14768676","0.00075","11076","Stop","15000","0","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","4500","9507","47335500","0.00075","35501","Stop","15000","1404","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","28","9507","294532","0.00075","220","Stop","15000","5904","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","85","9507","894115","0.00075","670","Stop","15000","5932","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","111","9507","1167609","0.00075","875","Stop","15000","6017","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","52","9507","546988","0.00075","410","Stop","15000","6128","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","28","9507","294532","0.00075","220","Stop","15000","6180","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","2000","9507","21038000","0.00075","15778","Stop","15000","6208","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","24","9507","252456","0.00075","189","Stop","15000","8208","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:59:42,"XBTUSD","Trade","Sell","6768","9507","71192592","0.00075","53394","Stop","15000","8232","9507","Triggered: Order stop price reached
+Submitted via API.","3b5ac352-7559-c6c6-580b-e51512b40e3b"
+17.5.2020, 06:00:00,"XBTUSD","Funding","","15000","9538.25","-157260000","0.0001","15726","Limit","15000","0","9538.25","Funding","00000000-0000-0000-0000-000000000000"
+17.5.2020, 04:15:27,"XBTUSD","Trade","Buy","15000","9537","-157275000","0.00075","117956","Stop","15000","0","9537","Triggered: Order stop price reached
+Submitted via API.","837f267b-e5df-e1ff-95b8-c0c80eaa17e7"
+14.5.2020, 08:11:36,"XBTUSD","Trade","Sell","15000","9410","159405000","0.00075","119553","Stop","15000","0","9410","Triggered: Order stop price reached
+Submitted via API.","688b33f2-8643-6211-2ae4-d2c9abdbf0f0"
+14.5.2020, 07:51:05,"XBTUSD","Trade","Buy","15000","9418.5","-159255000","0.00075","119441","Stop","15000","0","9418.5","Triggered: Order stop price reached
+Submitted via API.","1dd3cc44-e8e7-833e-7b22-8a7a22a8dd05"
+13.5.2020, 14:09:37,"XBTUSD","Trade","Sell","15000","8999.5","166680000","0.00075","125010","Stop","15000","0","8999.5","Triggered: Order stop price reached
+Submitted via API.","bed0c2a7-2e42-d263-b57b-c46fbd38b34f"
+13.5.2020, 14:00:00,"XBTUSD","Funding","","15000","9043.31","-165870000","0.0001","16587","Limit","15000","0","9043.31","Funding","00000000-0000-0000-0000-000000000000"
+13.5.2020, 13:00:52,"XBTUSD","Trade","Buy","15000","8993","-166800000","0.00075","125100","Stop","15000","0","8993","Triggered: Order stop price reached
+Submitted via API.","9bc13267-5515-ddf7-bd1d-db33ecfea500"
+13.5.2020, 06:00:16,"XBTUSD","Trade","Sell","8674","8917.5","97270236","0.00075","72952","Market","15000","0","8917.5","Submitted via API.","8b2bb81b-70e3-d320-f5be-2e3607e9622b"
+13.5.2020, 06:00:16,"XBTUSD","Trade","Sell","1500","8917.5","16821000","0.00075","12615","Market","15000","8674","8917.5","Submitted via API.","8b2bb81b-70e3-d320-f5be-2e3607e9622b"
+13.5.2020, 06:00:16,"XBTUSD","Trade","Sell","4500","8917.5","50463000","0.00075","37847","Market","15000","10174","8917.5","Submitted via API.","8b2bb81b-70e3-d320-f5be-2e3607e9622b"
+13.5.2020, 06:00:16,"XBTUSD","Trade","Sell","326","8917.5","3655764","0.00075","2741","Market","15000","14674","8917.5","Submitted via API.","8b2bb81b-70e3-d320-f5be-2e3607e9622b"
+13.5.2020, 06:00:00,"XBTUSD","Funding","","15000","8912.99","-168300000","-0.000068","-11444","Limit","15000","0","8912.99","Funding","00000000-0000-0000-0000-000000000000"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","5512","8980","-61381632","0.00075","46036","Stop","15000","0","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","1500","8980","-16704000","0.00075","12528","Stop","15000","5512","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","20","8980","-222720","0.00075","167","Stop","15000","7012","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","1000","8980","-11136000","0.00075","8352","Stop","15000","7032","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","200","8980","-2227200","0.00075","1670","Stop","15000","8032","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+13.5.2020, 04:01:52,"XBTUSD","Trade","Buy","6768","8980","-75368448","0.00075","56526","Stop","15000","8232","8980","Triggered: Order stop price reached
+Submitted via API.","b3f7dbd7-c769-cdd4-38bc-d8118d3ea349"
+12.5.2020, 12:00:15,"XBTUSD","Trade","Sell","15000","8788","170685000","0.00075","128013","Market","15000","0","8788","Submitted via API.","7eeca856-9465-0b69-3477-65762694ae9a"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","1045","8837.5","-11824175","0.00075","8868","Stop","15000","0","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","250","8837.5","-2828750","0.00075","2121","Stop","15000","1045","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","1000","8837.5","-11315000","0.00075","8486","Stop","15000","1295","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","360","8837.5","-4073400","0.00075","3055","Stop","15000","2295","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","2999","8837","-33936684","0.00075","25452","Stop","15000","2655","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","43","8837","-486588","0.00075","364","Stop","15000","5654","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","75","8837","-848700","0.00075","636","Stop","15000","5697","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","250","8837","-2829000","0.00075","2121","Stop","15000","5772","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","1500","8837","-16974000","0.00075","12730","Stop","15000","6022","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","2000","8836.5","-22634000","0.00075","16975","Stop","15000","7522","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+12.5.2020, 11:03:48,"XBTUSD","Trade","Buy","5478","8836.5","-61994526","0.00075","46495","Stop","15000","9522","8837.5","Triggered: Order stop price reached
+Submitted via API.","a4b5a93a-b6dc-ce76-c3ee-95bb8e2b2103"
+11.5.2020, 14:47:02,"XBTUSD","Trade","Sell","1986","8871.5","22386192","0.00075","16789","Stop","15000","0","8871.5","Triggered: Order stop price reached
+Submitted via API.","6c44714b-c228-e086-6bdb-6e7ca1de3335"
+11.5.2020, 14:47:02,"XBTUSD","Trade","Sell","7014","8871.5","79061808","0.00075","59296","Stop","15000","1986","8871.5","Triggered: Order stop price reached
+Submitted via API.","6c44714b-c228-e086-6bdb-6e7ca1de3335"
+11.5.2020, 14:47:02,"XBTUSD","Trade","Sell","6000","8872","67626000","0.00075","50719","Stop","15000","9000","8871.5","Triggered: Order stop price reached
+Submitted via API.","6c44714b-c228-e086-6bdb-6e7ca1de3335"
+11.5.2020, 14:00:00,"XBTUSD","Funding","","15000","8924.16","-168090000","0.0001","16809","Limit","15000","0","8924.16","Funding","00000000-0000-0000-0000-000000000000"
+11.5.2020, 12:45:48,"XBTUSD","Trade","Buy","15000","8835","-169785000","0.00075","127338","Stop","15000","0","8836.5","Triggered: Order stop price reached
+Submitted via API.","6f546871-15e3-d019-c0cb-49d65e6a8002"
+11.5.2020, 01:11:06,"XBTUSD","Trade","Sell","15000","8730","171825000","0.00075","128868","Stop","15000","0","8730","Triggered: Order stop price reached
+Submitted via API.","b8a4e6d6-4de5-479b-4de3-58190a55b03c"
+11.5.2020, 01:03:03,"XBTUSD","Trade","Buy","15000","8819","-170085000","0.00075","127563","Stop","15000","0","8819","Triggered: Order stop price reached
+Submitted via API.","7d7eaf9f-cee0-6332-1db7-afb4ce6433a8"
+7.5.2020, 01:50:22,"XBTUSD","Trade","Sell","15000","9232","162480000","0.00075","121860","Stop","15000","0","9232","Triggered: Order stop price reached
+Submitted via API.","6ee5b007-95d1-6f58-937b-ddb9800987bd"
+7.5.2020, 00:06:22,"XBTUSD","Trade","Buy","15000","9325","-160860000","0.00075","120645","Stop","15000","0","9325","Triggered: Order stop price reached
+Submitted via API.","efbf2efb-e189-db19-07d1-84580e62ba9c"
+6.5.2020, 10:07:11,"XBTUSD","Trade","Sell","15000","8998","166710000","0.00075","125032","Stop","15000","0","8998","Triggered: Order stop price reached
+Submitted via API.","30a55cf3-0804-33d5-df9f-32abcbf0c6cf"
+6.5.2020, 10:00:55,"XBTUSD","Trade","Buy","15000","9090","-165015000","0.00075","123761","Stop","15000","0","9090","Triggered: Order stop price reached
+Submitted via API.","71c83723-6296-8d8f-ad01-b2445efdfc9d"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","1451","8850.5","16394849","0.00075","12296","Market","15000","0","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","13","8850.5","146887","0.00075","110","Market","15000","1451","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","3","8850.5","33897","0.00075","25","Market","15000","1464","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","1342","8850.5","15163258","0.00075","11372","Market","15000","1467","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","2892","8850.5","32676708","0.00075","24507","Market","15000","2809","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","66","8850.5","745734","0.00075","559","Market","15000","5701","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","715","8850.5","8078785","0.00075","6059","Market","15000","5767","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","20","8850.5","225980","0.00075","169","Market","15000","6482","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","31","8850.5","350269","0.00075","262","Market","15000","6502","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","1100","8850.5","12428900","0.00075","9321","Market","15000","6533","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","5347","8850.5","60415753","0.00075","45311","Market","15000","7633","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","28","8850.5","316372","0.00075","237","Market","15000","12980","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","53","8850.5","598847","0.00075","449","Market","15000","13008","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","30","8850.5","338970","0.00075","254","Market","15000","13061","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","26","8850.5","293774","0.00075","220","Market","15000","13091","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","26","8850.5","293774","0.00075","220","Market","15000","13117","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","40","8850.5","451960","0.00075","338","Market","15000","13143","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","27","8850.5","305073","0.00075","228","Market","15000","13183","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","30","8850.5","338970","0.00075","254","Market","15000","13210","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","30","8850.5","338970","0.00075","254","Market","15000","13240","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","38","8850.5","429362","0.00075","322","Market","15000","13270","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","29","8850.5","327671","0.00075","245","Market","15000","13308","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","40","8850.5","451960","0.00075","338","Market","15000","13337","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","32","8850.5","361568","0.00075","271","Market","15000","13377","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","36","8850.5","406764","0.00075","305","Market","15000","13409","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","30","8850.5","338970","0.00075","254","Market","15000","13445","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","36","8850.5","406764","0.00075","305","Market","15000","13475","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","33","8850.5","372867","0.00075","279","Market","15000","13511","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","38","8850.5","429362","0.00075","322","Market","15000","13544","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","42","8850.5","474558","0.00075","355","Market","15000","13582","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","25","8850.5","282475","0.00075","211","Market","15000","13624","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","32","8850.5","361568","0.00075","271","Market","15000","13649","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","36","8850.5","406764","0.00075","305","Market","15000","13681","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","30","8850.5","338970","0.00075","254","Market","15000","13717","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","40","8850.5","451960","0.00075","338","Market","15000","13747","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","34","8850.5","384166","0.00075","288","Market","15000","13787","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","42","8850.5","474558","0.00075","355","Market","15000","13821","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","39","8850.5","440661","0.00075","330","Market","15000","13863","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","73","8850.5","824827","0.00075","618","Market","15000","13902","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","200","8850.5","2259800","0.00075","1694","Market","15000","13975","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:18,"XBTUSD","Trade","Sell","825","8850.5","9321675","0.00075","6991","Market","15000","14175","8850.5","Submitted via API.","17589436-dc06-4e0e-f264-c8dc82b91916"
+2.5.2020, 14:00:00,"XBTUSD","Funding","","15000","8853.13","-169425000","0.0001","16943","Limit","15000","0","8853.13","Funding","00000000-0000-0000-0000-000000000000"
+2.5.2020, 13:04:42,"XBTUSD","Trade","Buy","15000","8864.5","-169215000","0.00075","126911","Stop","15000","0","8864.5","Triggered: Order stop price reached
+Submitted via API.","7168e9a5-d9c9-7b8c-7f86-0a2c20f959ff"
+1.5.2020, 14:11:16,"XBTUSD","Trade","Sell","15000","8969","167250000","0.00075","125437","Stop","15000","0","8969","Triggered: Order stop price reached
+Submitted via API.","59b44f70-9bcb-26df-f833-f0256c45510d"
+1.5.2020, 14:00:00,"XBTUSD","Funding","","15000","9003.26","-166605000","0.0001","16661","Limit","15000","0","9003.26","Funding","00000000-0000-0000-0000-000000000000"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","6761","8887.5","-76074772","0.00075","57056","Stop","15000","0","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","390","8887.5","-4388280","0.00075","3291","Stop","15000","6761","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","50","8887.5","-562600","0.00075","421","Stop","15000","7151","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","500","8887.5","-5626000","0.00075","4219","Stop","15000","7201","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","1000","8887.5","-11252000","0.00075","8439","Stop","15000","7701","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","170","8887.5","-1912840","0.00075","1434","Stop","15000","8701","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","174","8887.5","-1957848","0.00075","1468","Stop","15000","8871","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","41","8887.5","-461332","0.00075","345","Stop","15000","9045","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","3500","8887.5","-39382000","0.00075","29536","Stop","15000","9086","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","100","8887.5","-1125200","0.00075","843","Stop","15000","12586","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","1000","8887.5","-11252000","0.00075","8439","Stop","15000","12686","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","300","8887.5","-3375600","0.00075","2531","Stop","15000","13686","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+1.5.2020, 12:57:41,"XBTUSD","Trade","Buy","1014","8887.5","-11409528","0.00075","8557","Stop","15000","13986","8887.5","Triggered: Order stop price reached
+Submitted via API.","9183e229-ea05-a7cd-43f9-1f618f38b9b9"
+29.4.2020, 02:00:16,"XBTUSD","Trade","Sell","2467","7759.5","31792229","0.00075","23844","Market","15000","0","7759.5","Submitted via API.","31828a7e-2224-968e-62ba-e7228c142e91"
+29.4.2020, 02:00:16,"XBTUSD","Trade","Sell","12000","7759.5","154644000","0.00075","115983","Market","15000","2467","7759.5","Submitted via API.","31828a7e-2224-968e-62ba-e7228c142e91"
+29.4.2020, 02:00:16,"XBTUSD","Trade","Sell","330","7759.5","4252710","0.00075","3189","Market","15000","14467","7759.5","Submitted via API.","31828a7e-2224-968e-62ba-e7228c142e91"
+29.4.2020, 02:00:16,"XBTUSD","Trade","Sell","203","7759.5","2616061","0.00075","1962","Market","15000","14797","7759.5","Submitted via API.","31828a7e-2224-968e-62ba-e7228c142e91"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","680","7768","-8753640","0.00075","6565","Stop","15000","0","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","30","7768","-386190","0.00075","289","Stop","15000","680","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","20","7768","-257460","0.00075","193","Stop","15000","710","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","10000","7768","-128730000","0.00075","96547","Stop","15000","730","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","16","7768","-205968","0.00075","154","Stop","15000","10730","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","3000","7768","-38619000","0.00075","28964","Stop","15000","10746","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","20","7768","-257460","0.00075","193","Stop","15000","13746","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+29.4.2020, 01:11:17,"XBTUSD","Trade","Buy","1234","7768","-15885282","0.00075","11913","Stop","15000","13766","7768","Triggered: Order stop price reached
+Submitted via API.","640ae6ca-a4b2-7e9e-1aae-225430b55afb"
+28.4.2020, 02:00:51,"XBTUSD","Trade","Sell","11764","7777.5","151261512","0.00075","113446","Stop","15000","0","7777.5","Triggered: Order stop price reached
+Submitted via API.","c6e6eb91-196e-6d24-327d-0593dde99931"
+28.4.2020, 02:00:51,"XBTUSD","Trade","Sell","3236","7777.5","41608488","0.00075","31206","Stop","15000","11764","7777.5","Triggered: Order stop price reached
+Submitted via API.","c6e6eb91-196e-6d24-327d-0593dde99931"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","1292","7731","-16712020","0.00075","12534","Stop","15000","0","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","20","7731","-258700","0.00075","194","Stop","15000","1292","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","450","7731","-5820750","0.00075","4365","Stop","15000","1312","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","46","7731","-595010","0.00075","446","Stop","15000","1762","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","20","7731","-258700","0.00075","194","Stop","15000","1808","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","100","7731","-1293500","0.00075","970","Stop","15000","1828","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","82","7731","-1060670","0.00075","795","Stop","15000","1928","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","82","7731","-1060670","0.00075","795","Stop","15000","2010","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","450","7731","-5820750","0.00075","4365","Stop","15000","2092","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","1206","7731","-15599610","0.00075","11699","Stop","15000","2542","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","120","7731","-1552200","0.00075","1164","Stop","15000","3748","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","768","7731","-9934080","0.00075","7450","Stop","15000","3868","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","288","7731","-3725280","0.00075","2793","Stop","15000","4636","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","144","7731","-1862640","0.00075","1396","Stop","15000","4924","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","2112","7731","-27318720","0.00075","20489","Stop","15000","5068","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+27.4.2020, 23:17:02,"XBTUSD","Trade","Buy","7820","7730","-101167340","0.00075","75875","Stop","15000","7180","7731","Triggered: Order stop price reached
+Submitted via API.","7c7caac0-f0eb-88ef-307d-762bcd7f85ba"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","14","7540.5","185668","0.00075","139","Stop","17500","0","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7540.5","397860","0.00075","298","Stop","17500","14","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","34","7540.5","450908","0.00075","338","Stop","17500","44","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","24","7540.5","318288","0.00075","238","Stop","17500","78","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7540.5","437646","0.00075","328","Stop","17500","102","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","39","7540.5","517218","0.00075","387","Stop","17500","135","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","25","7540.5","331550","0.00075","248","Stop","17500","174","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","24","7540.5","318288","0.00075","238","Stop","17500","199","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7540.5","265240","0.00075","198","Stop","17500","223","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","37","7540.5","490694","0.00075","368","Stop","17500","243","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7540.5","278502","0.00075","208","Stop","17500","280","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7540.5","371336","0.00075","278","Stop","17500","301","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7540.5","437646","0.00075","328","Stop","17500","329","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7540.5","411122","0.00075","308","Stop","17500","362","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7540.5","265240","0.00075","198","Stop","17500","393","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","3000","7540.5","39786000","0.00075","29839","Stop","17500","413","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","32","7540.5","424384","0.00075","318","Stop","17500","3413","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","4000","7540.5","53048000","0.00075","39786","Stop","17500","3445","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","38","7540.5","503956","0.00075","377","Stop","17500","7445","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7540.5","384598","0.00075","288","Stop","17500","7483","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7540.5","437646","0.00075","328","Stop","17500","7512","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7540.5","278502","0.00075","208","Stop","17500","7545","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","38","7540.5","503956","0.00075","377","Stop","17500","7566","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","23","7540.5","305026","0.00075","228","Stop","17500","7604","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7540.5","291764","0.00075","218","Stop","17500","7627","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","26","7540.5","344812","0.00075","258","Stop","17500","7649","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7540.5","371336","0.00075","278","Stop","17500","7675","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7540.5","384598","0.00075","288","Stop","17500","7703","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7540.5","384598","0.00075","288","Stop","17500","7732","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7540.5","411122","0.00075","308","Stop","17500","7761","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","37","7540.5","490694","0.00075","368","Stop","17500","7792","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7540.5","265240","0.00075","198","Stop","17500","7829","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7540.5","397860","0.00075","298","Stop","17500","7849","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7540.5","437646","0.00075","328","Stop","17500","7879","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","34","7540.5","450908","0.00075","338","Stop","17500","7912","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7540.5","371336","0.00075","278","Stop","17500","7946","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","24","7540.5","318288","0.00075","238","Stop","17500","7974","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","23","7540.5","305026","0.00075","228","Stop","17500","7998","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7540.5","278502","0.00075","208","Stop","17500","8021","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7540.5","371336","0.00075","278","Stop","17500","8042","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7540.5","371336","0.00075","278","Stop","17500","8070","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7540.5","384598","0.00075","288","Stop","17500","8098","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7540.5","278502","0.00075","208","Stop","17500","8127","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","1000","7540.5","13262000","0.00075","9946","Stop","17500","8148","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","100","7540.5","1326200","0.00075","994","Stop","17500","9148","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","228","7540.5","3023736","0.00075","2267","Stop","17500","9248","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7540.5","397860","0.00075","298","Stop","17500","9476","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7540.5","397860","0.00075","298","Stop","17500","9506","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","200","7540.5","2652400","0.00075","1989","Stop","17500","9536","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","130","7540.5","1724060","0.00075","1293","Stop","17500","9736","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","100","7541","1326100","0.00075","994","Stop","17500","9866","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","100","7541","1326100","0.00075","994","Stop","17500","9966","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7541","265220","0.00075","198","Stop","17500","10066","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7541","384569","0.00075","288","Stop","17500","10086","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","129","7541","1710669","0.00075","1283","Stop","17500","10115","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7541","371308","0.00075","278","Stop","17500","10244","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","23","7541","305003","0.00075","228","Stop","17500","10272","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7541","397830","0.00075","298","Stop","17500","10295","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","25","7541","331525","0.00075","248","Stop","17500","10325","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","34","7541","450874","0.00075","338","Stop","17500","10350","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7541","384569","0.00075","288","Stop","17500","10384","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","38","7541","503918","0.00075","377","Stop","17500","10413","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","550","7541","7293550","0.00075","5470","Stop","17500","10451","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11001","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","39","7541","517179","0.00075","387","Stop","17500","11023","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","36","7541","477396","0.00075","358","Stop","17500","11062","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11098","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7541","384569","0.00075","288","Stop","17500","11120","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7541","397830","0.00075","298","Stop","17500","11149","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7541","411091","0.00075","308","Stop","17500","11179","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","36","7541","477396","0.00075","358","Stop","17500","11210","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11246","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7541","265220","0.00075","198","Stop","17500","11268","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","27","7541","358047","0.00075","268","Stop","17500","11288","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","32","7541","424352","0.00075","318","Stop","17500","11315","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7541","437613","0.00075","328","Stop","17500","11347","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","37","7541","490657","0.00075","367","Stop","17500","11380","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","34","7541","450874","0.00075","338","Stop","17500","11417","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7541","278481","0.00075","208","Stop","17500","11451","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","25","7541","331525","0.00075","248","Stop","17500","11472","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7541","411091","0.00075","308","Stop","17500","11497","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11528","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11550","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","32","7541","424352","0.00075","318","Stop","17500","11572","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11604","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","24","7541","318264","0.00075","238","Stop","17500","11626","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7541","371308","0.00075","278","Stop","17500","11650","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7541","411091","0.00075","308","Stop","17500","11678","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7541","265220","0.00075","198","Stop","17500","11709","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","22","7541","291742","0.00075","218","Stop","17500","11729","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","25","7541","331525","0.00075","248","Stop","17500","11751","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","29","7541","384569","0.00075","288","Stop","17500","11776","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","38","7541","503918","0.00075","377","Stop","17500","11805","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","36","7541","477396","0.00075","358","Stop","17500","11843","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","25","7541","331525","0.00075","248","Stop","17500","11879","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7541","397830","0.00075","298","Stop","17500","11904","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7541","437613","0.00075","328","Stop","17500","11934","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","24","7541","318264","0.00075","238","Stop","17500","11967","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","33","7541","437613","0.00075","328","Stop","17500","11991","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","34","7541","450874","0.00075","338","Stop","17500","12024","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7541","278481","0.00075","208","Stop","17500","12058","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","20","7541","265220","0.00075","198","Stop","17500","12079","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7541","397830","0.00075","298","Stop","17500","12099","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","35","7541","464135","0.00075","348","Stop","17500","12129","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","30","7541","397830","0.00075","298","Stop","17500","12164","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","32","7541","424352","0.00075","318","Stop","17500","12194","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","26","7541","344786","0.00075","258","Stop","17500","12226","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","37","7541","490657","0.00075","367","Stop","17500","12252","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","31","7541","411091","0.00075","308","Stop","17500","12289","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","21","7541","278481","0.00075","208","Stop","17500","12320","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","28","7541","371308","0.00075","278","Stop","17500","12341","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","36","7541","477396","0.00075","358","Stop","17500","12369","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","2000","7541","26522000","0.00075","19891","Stop","17500","12405","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","275","7541","3646775","0.00075","2735","Stop","17500","14405","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","105","7541","1392405","0.00075","1044","Stop","17500","14680","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","32","7541","424352","0.00075","318","Stop","17500","14785","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","878","7541","11643158","0.00075","8732","Stop","17500","14817","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","74","7541","981314","0.00075","735","Stop","17500","15695","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","53","7541","702833","0.00075","527","Stop","17500","15769","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","163","7541","2161543","0.00075","1621","Stop","17500","15822","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","1039","7541","13778179","0.00075","10333","Stop","17500","15985","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","381","7541","5052441","0.00075","3789","Stop","17500","17024","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","15","7541","198915","0.00075","149","Stop","17500","17405","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","43","7541","570223","0.00075","427","Stop","17500","17420","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 08:21:59,"XBTUSD","Trade","Sell","37","7541","490657","0.00075","367","Stop","17500","17463","7540.5","Triggered: Order stop price reached
+Submitted via API.","a06100e8-b370-b29e-c044-e1b9f41ace26"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","18","7557","-238194","0.00075","178","Stop","17500","0","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","30","7557","-396990","0.00075","297","Stop","17500","18","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","600","7557","-7939800","0.00075","5954","Stop","17500","48","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","50","7557","-661650","0.00075","496","Stop","17500","648","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","27","7557","-357291","0.00075","267","Stop","17500","698","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","725","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","20","7557","-264660","0.00075","198","Stop","17500","760","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","33","7557","-436689","0.00075","327","Stop","17500","780","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","29","7557","-383757","0.00075","287","Stop","17500","813","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","36","7557","-476388","0.00075","357","Stop","17500","842","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","26","7557","-344058","0.00075","258","Stop","17500","878","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","904","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","38","7557","-502854","0.00075","377","Stop","17500","939","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","25","7557","-330825","0.00075","248","Stop","17500","977","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","37","7557","-489621","0.00075","367","Stop","17500","1002","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","27","7557","-357291","0.00075","267","Stop","17500","1039","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","1066","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","28","7557","-370524","0.00075","277","Stop","17500","1101","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","29","7557","-383757","0.00075","287","Stop","17500","1129","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","24","7557","-317592","0.00075","238","Stop","17500","1158","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","25","7557","-330825","0.00075","248","Stop","17500","1182","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","32","7557","-423456","0.00075","317","Stop","17500","1207","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","27","7557","-357291","0.00075","267","Stop","17500","1239","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","33","7557","-436689","0.00075","327","Stop","17500","1266","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","24","7557","-317592","0.00075","238","Stop","17500","1299","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","38","7557","-502854","0.00075","377","Stop","17500","1323","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","28","7557","-370524","0.00075","277","Stop","17500","1361","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","1389","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","22","7557","-291126","0.00075","218","Stop","17500","1424","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","25","7557","-330825","0.00075","248","Stop","17500","1446","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","27","7557","-357291","0.00075","267","Stop","17500","1471","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","38","7557","-502854","0.00075","377","Stop","17500","1498","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","24","7557","-317592","0.00075","238","Stop","17500","1536","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","1560","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","32","7557","-423456","0.00075","317","Stop","17500","1595","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","38","7557","-502854","0.00075","377","Stop","17500","1627","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","26","7557","-344058","0.00075","258","Stop","17500","1665","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","1691","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","20","7557","-264660","0.00075","198","Stop","17500","1726","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","3000","7557","-39699000","0.00075","29774","Stop","17500","1746","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","26","7557","-344058","0.00075","258","Stop","17500","4746","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","31","7557","-410223","0.00075","307","Stop","17500","4772","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","29","7557","-383757","0.00075","287","Stop","17500","4803","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","34","7557","-449922","0.00075","337","Stop","17500","4832","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","30","7557","-396990","0.00075","297","Stop","17500","4866","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","20","7557","-264660","0.00075","198","Stop","17500","4896","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","38","7557","-502854","0.00075","377","Stop","17500","4916","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","33","7557","-436689","0.00075","327","Stop","17500","4954","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","35","7557","-463155","0.00075","347","Stop","17500","4987","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","30","7557","-396990","0.00075","297","Stop","17500","5022","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","20","7557","-264660","0.00075","198","Stop","17500","5052","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","26","7557","-344058","0.00075","258","Stop","17500","5072","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","22","7557","-291126","0.00075","218","Stop","17500","5098","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","23","7557","-304359","0.00075","228","Stop","17500","5120","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","25","7557","-330825","0.00075","248","Stop","17500","5143","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","31","7557","-410223","0.00075","307","Stop","17500","5168","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","22","7557","-291126","0.00075","218","Stop","17500","5199","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","34","7557","-449922","0.00075","337","Stop","17500","5221","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","25","7557","-330825","0.00075","248","Stop","17500","5255","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","500","7557","-6616500","0.00075","4962","Stop","17500","5280","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","24","7557","-317592","0.00075","238","Stop","17500","5780","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","21","7557","-277893","0.00075","208","Stop","17500","5804","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","30","7557","-396990","0.00075","297","Stop","17500","5825","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","34","7557","-449922","0.00075","337","Stop","17500","5855","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","117","7557","-1548261","0.00075","1161","Stop","17500","5889","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","10000","7557","-132330000","0.00075","99247","Stop","17500","6006","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+25.4.2020, 07:58:08,"XBTUSD","Trade","Buy","1494","7557","-19770102","0.00075","14827","Stop","17500","16006","7557","Triggered: Order stop price reached
+Submitted via API.","5687013c-e9d1-8266-fb73-2b4d171a7610"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","139","7531","1845642","0.00075","1384","Stop","17500","0","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","360","7531","4780080","0.00075","3585","Stop","17500","139","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","25","7531","331950","0.00075","248","Stop","17500","499","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","10000","7531","132780000","0.00075","99585","Stop","17500","524","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","20","7531","265560","0.00075","199","Stop","17500","10524","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","224","7531","2974272","0.00075","2230","Stop","17500","10544","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","1110","7531","14738580","0.00075","11053","Stop","17500","10768","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","113","7531","1500414","0.00075","1125","Stop","17500","11878","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","143","7531","1898754","0.00075","1424","Stop","17500","11991","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","1188","7531","15774264","0.00075","11830","Stop","17500","12134","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","90","7531","1195020","0.00075","896","Stop","17500","13322","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","2260","7531","30008280","0.00075","22506","Stop","17500","13412","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","1440","7531","19120320","0.00075","14340","Stop","17500","15672","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","140","7531","1858920","0.00075","1394","Stop","17500","17112","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","100","7531","1327800","0.00075","995","Stop","17500","17252","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","50","7531","663900","0.00075","497","Stop","17500","17352","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 18:41:44,"XBTUSD","Trade","Sell","98","7531","1301244","0.00075","975","Stop","17500","17402","7531","Triggered: Order stop price reached
+Submission from www.bitmex.com","33cdcc37-471f-ab25-8c68-9dc257fca437"
+23.4.2020, 15:35:07,"XBTUSD","Trade","Buy","17500","7193","-243285000","0.00075","182463","Stop","17500","0","7193","Triggered: Order stop price reached
+Submission from www.bitmex.com","f28a3ec9-2cb6-7479-e91b-1982d9a0c4b0"
+21.4.2020, 20:00:04,"XBTUSD","Trade","Sell","10000","6901.5","144900000","0.00075","108675","Market","10000","0","6901.5","Submitted via API.","464ccded-0d2e-1f67-0307-dc41960f68fd"
+21.4.2020, 19:50:40,"XBTUSD","Trade","Buy","10000","6912","-144680000","0.00075","108510","Stop","10000","0","6912","Triggered: Order stop price reached
+Submitted via API.","7b90c293-3ee6-0224-0e0f-2c389dc75cde"
+20.4.2020, 00:07:58,"XBTUSD","Trade","Sell","7500","7167","104647500","0.00075","78485","Stop","10000","0","7167","Triggered: Order stop price reached
+Submitted via API.","70835cce-9bf7-24a9-89e6-2c14d1c47665"
+20.4.2020, 00:07:58,"XBTUSD","Trade","Sell","2500","7167","34882500","0.00075","26161","Stop","10000","7500","7167","Triggered: Order stop price reached
+Submitted via API.","70835cce-9bf7-24a9-89e6-2c14d1c47665"
+19.4.2020, 23:58:25,"XBTUSD","Trade","Buy","10000","7189","-139100000","0.00075","104325","Stop","10000","0","7189","Triggered: Order stop price reached
+Submitted via API.","206842f3-7e5f-0106-f967-a28f0aaed50c"
+19.4.2020, 02:00:08,"XBTUSD","Trade","Sell","10000","7256.5","137810000","0.00075","103357","Market","10000","0","7256.5","Submitted via API.","2bf76d69-3939-03c9-b3bb-b35da7a9cf8f"
+19.4.2020, 00:51:12,"XBTUSD","Trade","Buy","10000","7285","-137270000","0.00075","102952","Stop","10000","0","7285","Triggered: Order stop price reached
+Submitted via API.","7723345a-1ad6-b851-dd0d-5a37defd0382"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","801","7221.5","11092248","0.00075","8319","Stop","10000","0","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","250","7222","3461750","0.00075","2596","Stop","10000","801","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","4","7222","55388","0.00075","41","Stop","10000","1051","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","30","7222","415410","0.00075","311","Stop","10000","1055","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","2004","7222","27749388","0.00075","20812","Stop","10000","1085","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","594","7222","8225118","0.00075","6168","Stop","10000","3089","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","22","7222","304634","0.00075","228","Stop","10000","3683","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","40","7222","553880","0.00075","415","Stop","10000","3705","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","40","7222","553880","0.00075","415","Stop","10000","3745","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","40","7222","553880","0.00075","415","Stop","10000","3785","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","2700","7222","37386900","0.00075","28040","Stop","10000","3825","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","3000","7222","41541000","0.00075","31155","Stop","10000","6525","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","40","7222","553880","0.00075","415","Stop","10000","9525","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","40","7222","553880","0.00075","415","Stop","10000","9565","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","120","7222","1661640","0.00075","1246","Stop","10000","9605","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","25","7222","346175","0.00075","259","Stop","10000","9725","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","60","7222","830820","0.00075","623","Stop","10000","9750","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 16:05:31,"XBTUSD","Trade","Sell","190","7222","2630930","0.00075","1973","Stop","10000","9810","7221.5","Triggered: Order stop price reached
+Submitted via API.","404f7afc-5a77-0b33-e4fd-efad07d0d2e3"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","1335","7132.5","-18716700","0.00075","14037","Stop","10000","0","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","20","7132.5","-280400","0.00075","210","Stop","10000","1335","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","2000","7132.5","-28040000","0.00075","21030","Stop","10000","1355","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","770","7132.5","-10795400","0.00075","8096","Stop","10000","3355","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","25","7132.5","-350500","0.00075","262","Stop","10000","4125","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","62","7132.5","-869240","0.00075","651","Stop","10000","4150","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","44","7132.5","-616880","0.00075","462","Stop","10000","4212","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","5508","7132","-77227668","0.00075","57920","Stop","10000","4256","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","134","7132","-1878814","0.00075","1409","Stop","10000","9764","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","19","7132","-266399","0.00075","199","Stop","10000","9898","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 14:53:19,"XBTUSD","Trade","Buy","83","7132","-1163743","0.00075","872","Stop","10000","9917","7132.5","Triggered: Order stop price reached
+Submitted via API.","807011ce-cd38-1096-f6ec-ce0079602589"
+18.4.2020, 01:43:45,"XBTUSD","Trade","Sell","5043","7055","71479482","0.00075","53609","Stop","10000","0","7055","Triggered: Order stop price reached
+Submitted via API.","4bee9e4d-460d-14c3-538b-fc6e953f67b3"
+18.4.2020, 01:43:45,"XBTUSD","Trade","Sell","4957","7055","70260518","0.00075","52695","Stop","10000","5043","7055","Triggered: Order stop price reached
+Submitted via API.","4bee9e4d-460d-14c3-538b-fc6e953f67b3"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","610","7130","-8555250","0.00075","6416","Stop","10000","0","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","3","7130","-42075","0.00075","31","Stop","10000","610","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","100","7130","-1402500","0.00075","1051","Stop","10000","613","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","500","7130","-7012500","0.00075","5259","Stop","10000","713","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","20","7130","-280500","0.00075","210","Stop","10000","1213","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","100","7130","-1402500","0.00075","1051","Stop","10000","1233","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","3000","7130","-42075000","0.00075","31556","Stop","10000","1333","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","50","7130","-701250","0.00075","525","Stop","10000","4333","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","1000","7130","-14025000","0.00075","10518","Stop","10000","4383","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","100","7130","-1402500","0.00075","1051","Stop","10000","5383","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","600","7130","-8415000","0.00075","6311","Stop","10000","5483","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","250","7130","-3506250","0.00075","2629","Stop","10000","6083","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","200","7130","-2805000","0.00075","2103","Stop","10000","6333","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","20","7130","-280500","0.00075","210","Stop","10000","6533","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","3000","7130","-42075000","0.00075","31556","Stop","10000","6553","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","300","7130","-4207500","0.00075","3155","Stop","10000","9553","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+18.4.2020, 01:21:36,"XBTUSD","Trade","Buy","147","7130","-2061675","0.00075","1546","Stop","10000","9853","7130","Triggered: Order stop price reached
+Submitted via API.","09ca33e3-eeab-6140-dd05-f3774972fc06"
+17.4.2020, 01:51:20,"XBTUSD","Trade","Sell","10000","7088","141080000","0.00075","105810","Stop","10000","0","7088","Triggered: Order stop price reached
+Submitted via API.","693ec2b7-a25a-0efe-c4af-667b249e268c"
+17.4.2020, 00:57:43,"XBTUSD","Trade","Buy","10000","7160.5","-139660000","0.00075","104745","Stop","10000","0","7160.5","Triggered: Order stop price reached
+Submitted via API.","8d9d198f-59ed-d2f5-15ad-da43c01515ff"
+16.4.2020, 12:36:35,"XBTUSD","Trade","Sell","10000","7028","142290000","0.00075","106717","Stop","10000","0","7028","Triggered: Order stop price reached
+Submitted via API.","b5bcda6e-6a79-da50-f420-f2079925de8f"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","563","6775","-8309880","0.00075","6232","Stop","10000","0","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","1540","6775","-22730400","0.00075","17047","Stop","10000","563","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","500","6775","-7380000","0.00075","5535","Stop","10000","2103","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","100","6775","-1476000","0.00075","1107","Stop","10000","2603","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","500","6775","-7380000","0.00075","5535","Stop","10000","2703","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","6000","6775","-88560000","0.00075","66420","Stop","10000","3203","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","150","6775","-2214000","0.00075","1660","Stop","10000","9203","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","300","6775","-4428000","0.00075","3321","Stop","10000","9353","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+16.4.2020, 09:02:37,"XBTUSD","Trade","Buy","347","6775","-5121720","0.00075","3841","Stop","10000","9653","6775","Triggered: Order stop price reached
+Submitted via API.","d71fc97c-fef1-7d79-1e1c-a96ad73fd913"
+12.4.2020, 20:00:22,"XBTUSD","Trade","Sell","5884","7119.5","82646664","0.00075","61984","Market","10000","0","7119.5","Submitted via API.","8998c112-fd53-6575-f596-0101a141a23b"
+12.4.2020, 20:00:22,"XBTUSD","Trade","Sell","16","7119.5","224736","0.00075","168","Market","10000","5884","7119.5","Submitted via API.","8998c112-fd53-6575-f596-0101a141a23b"
+12.4.2020, 20:00:22,"XBTUSD","Trade","Sell","4100","7119.5","57588600","0.00075","43191","Market","10000","5900","7119.5","Submitted via API.","8998c112-fd53-6575-f596-0101a141a23b"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","4961","6909","-71805514","0.00075","53854","Stop","10000","0","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","702","6909","-10160748","0.00075","7620","Stop","10000","4961","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","540","6909","-7815960","0.00075","5861","Stop","10000","5663","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","1740","6909","-25184760","0.00075","18888","Stop","10000","6203","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","588","6909","-8510712","0.00075","6383","Stop","10000","7943","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","96","6909","-1389504","0.00075","1042","Stop","10000","8531","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","345","6909","-4993530","0.00075","3745","Stop","10000","8627","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","63","6909","-911862","0.00075","683","Stop","10000","8972","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","744","6909","-10768656","0.00075","8076","Stop","10000","9035","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 14:24:38,"XBTUSD","Trade","Buy","221","6909","-3198754","0.00075","2399","Stop","10000","9779","6909","Triggered: Order stop price reached
+Submitted via API.","fe3799da-ec0a-d0c6-2101-9f0650635e97"
+12.4.2020, 04:00:08,"XBTUSD","Trade","Sell","5736","6853.5","83693976","0.00075","62770","Market","10000","0","6853.5","Submitted via API.","39dfa66c-8f98-1f06-ff03-01309723dd43"
+12.4.2020, 04:00:08,"XBTUSD","Trade","Sell","4264","6853.5","62216024","0.00075","46662","Market","10000","5736","6853.5","Submitted via API.","39dfa66c-8f98-1f06-ff03-01309723dd43"
+12.4.2020, 02:07:27,"XBTUSD","Trade","Buy","10000","6906","-144800000","0.00075","108600","Stop","10000","0","6906","Triggered: Order stop price reached
+Submitted via API.","53831c6d-bfd8-c5d0-c119-59aed80d4508"
+9.4.2020, 16:07:40,"XBTUSD","Trade","Sell","500","7292.5","6856500","0.00075","5142","Stop","500","0","7292.5","Triggered: Order stop price reached
+Submitted via API.","4c7c62ce-7fdb-dcd5-d373-a7eb39202210"
+9.4.2020, 16:04:05,"XBTUSD","Trade","Buy","500","7366.5","-6787500","0.00075","5090","Stop","500","0","7366.5","Triggered: Order stop price reached
+Submitted via API.","c1be9a10-7097-8870-6427-25b1d8d0a7b7"
+8.4.2020, 06:00:06,"XBTUSD","Trade","Sell","500","7358","6795500","0.00075","5096","Market","500","0","7358","Submitted via API.","fd0af45d-ad9d-4c1f-1497-2ccb8ed9b326"
+8.4.2020, 06:00:00,"XBTUSD","Funding","","500","7352.45","-6800500","-0.000152","-1034","Limit","500","0","7352.45","Funding","00000000-0000-0000-0000-000000000000"
+8.4.2020, 05:41:04,"XBTUSD","Trade","Buy","500","7390","-6766000","0.00075","5074","Stop","500","0","7390","Triggered: Order stop price reached
+Submitted via API.","bd4995b4-b2e8-2504-e077-0be9e9f5d9c7"
+7.4.2020, 14:28:26,"XBTUSD","Trade","Sell","500","7390","6766000","0.00075","5074","Stop","500","0","7390","Triggered: Order stop price reached
+Submitted via API.","1abe7e37-0fc0-a32b-e652-29b5a0006e76"
+7.4.2020, 14:25:44,"XBTUSD","Trade","Buy","500","7464.5","-6698500","0.00075","5023","Stop","500","0","7464.5","Triggered: Order stop price reached
+Submitted via API.","5995058d-3d2f-40e6-159a-ccbf89f18eec"
+6.4.2020, 18:12:43,"XBTUSD","Trade","Sell","500","7115","7027500","0.00075","5270","Stop","500","0","7115","Triggered: Order stop price reached
+Submitted via API.","78ec679b-7ef9-df17-52ac-2192268a008d"
+6.4.2020, 18:02:17,"XBTUSD","Trade","Buy","500","7185","-6959000","0.00075","5219","Stop","500","0","7185","Triggered: Order stop price reached
+Submitted via API.","2705d1ba-f076-76bf-6acc-c850cafd090e"
+6.4.2020, 08:02:14,"XBTUSD","Trade","Sell","500","6977.5","7166000","0.00075","5374","Stop","500","0","6977.5","Triggered: Order stop price reached
+Submitted via API.","ecf42602-eb18-b9cc-b54e-1709681deb1d"
+6.4.2020, 06:15:22,"XBTUSD","Trade","Buy","500","6920","-7225500","0.00075","5419","Stop","500","0","6920","Triggered: Order stop price reached
+Submitted via API.","fa066d94-649a-0b57-2a99-3d3787831f29"
+4.4.2020, 22:31:48,"XBTUSD","Trade","Sell","500","6978","7165500","0.00075","5374","Stop","500","0","6978","Triggered: Order stop price reached
+Submitted via API.","4fb9a7a7-11af-30d9-358e-4273a51e96e0"
+4.4.2020, 22:30:35,"XBTUSD","Trade","Buy","500","7050","-7092000","0.00075","5319","Stop","500","0","7050","Triggered: Order stop price reached
+Submitted via API.","6cb52fac-7177-7f56-246b-384b0e74c38a"
+3.4.2020, 10:08:29,"XBTUSD","Trade","Sell","500","6901","7245500","0.00075","5434","Stop","500","0","6901","Triggered: Order stop price reached
+Submitted via API.","261da8df-5ec0-933e-61d9-75d825a949bb"
+3.4.2020, 09:17:19,"XBTUSD","Trade","Buy","500","6823.5","-7327500","0.00075","5495","Stop","500","0","6823.5","Triggered: Order stop price reached
+Submitted via API.","3ae27f5e-ecc4-d382-e24f-d98db6f8cd87"
+2.4.2020, 02:21:18,"XBTUSD","Trade","Sell","500","6652.5","7516000","0.00075","5637","Stop","500","0","6652.5","Triggered: Order stop price reached
+Submitted via API.","2739e09e-4498-ffad-f23c-362772614dd7"
+1.4.2020, 22:35:54,"XBTUSD","Trade","Buy","500","6347","-7877500","0.00075","5908","Stop","500","0","6347","Triggered: Order stop price reached
+Submitted via API.","ea01e495-60c0-39cf-865e-ee62b66283e8"
+1.4.2020, 14:06:15,"XBTUSD","Trade","Sell","500","6275","7968000","0.00075","5976","Stop","500","0","6275","Triggered: Order stop price reached
+Submitted via API.","6f57bef8-19c1-1517-d345-eed3f9b8a3d9"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","161","6339.5","-2539614","0.00075","1904","Stop","500","0","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","20","6339.5","-315480","0.00075","236","Stop","500","161","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","50","6339.5","-788700","0.00075","591","Stop","500","181","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","50","6339.5","-788700","0.00075","591","Stop","500","231","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","32","6339.5","-504768","0.00075","378","Stop","500","281","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+1.4.2020, 14:01:25,"XBTUSD","Trade","Buy","187","6339.5","-2949738","0.00075","2212","Stop","500","313","6339.5","Triggered: Order stop price reached
+Submitted via API.","fdf83f37-8516-8297-f3ab-7c631f3453e3"
+31.3.2020, 17:22:43,"XBTUSD","Trade","Sell","500","6441","7763000","0.00075","5822","Stop","500","0","6441","Triggered: Order stop price reached
+Submitted via API.","60d10041-c0d4-a3dd-8135-85bcbf38939f"
+31.3.2020, 17:15:34,"XBTUSD","Trade","Buy","500","6507","-7684000","0.00075","5763","Stop","500","0","6507","Triggered: Order stop price reached
+Submitted via API.","2e333756-469a-1e6f-ee67-f0a3bfb81e7c"
+30.3.2020, 08:25:31,"XBTUSD","Trade","Sell","500","6189","8079000","0.00075","6059","Stop","500","0","6189","Triggered: Order stop price reached
+Submitted via API.","076a44d5-624a-5f39-bf27-45701ebaaafc"
+30.3.2020, 07:01:56,"XBTUSD","Trade","Buy","459","6190.5","-7414686","0.00075","5561","Stop","500","0","6190.5","Triggered: Order stop price reached
+Submitted via API.","a1719762-30af-42d5-35fe-afcfad1e1317"
+30.3.2020, 07:01:56,"XBTUSD","Trade","Buy","41","6190.5","-662314","0.00075","496","Stop","500","459","6190.5","Triggered: Order stop price reached
+Submitted via API.","a1719762-30af-42d5-35fe-afcfad1e1317"
+27.3.2020, 01:00:14,"XBTUSD","Trade","Sell","45","6774.5","664245","0.00075","498","Market","500","0","6774.5","Submitted via API.","185775c4-6bdd-a165-5b8b-dbad40ab27b8"
+27.3.2020, 01:00:14,"XBTUSD","Trade","Sell","455","6774.5","6716255","0.00075","5037","Market","500","45","6774.5","Submitted via API.","185775c4-6bdd-a165-5b8b-dbad40ab27b8"
+27.3.2020, 00:30:22,"XBTUSD","Trade","Buy","112","6778.5","-1652336","0.00075","1239","Stop","500","0","6778.5","Triggered: Order stop price reached
+Submitted via API.","58075b4b-7c8e-5418-c470-f66462fc9fd6"
+27.3.2020, 00:30:22,"XBTUSD","Trade","Buy","388","6778.5","-5724164","0.00075","4293","Stop","500","112","6778.5","Triggered: Order stop price reached
+Submitted via API.","58075b4b-7c8e-5418-c470-f66462fc9fd6"
+26.3.2020, 01:00:13,"XBTUSD","Trade","Sell","500","6703.5","7459000","0.00075","5594","Market","500","0","6703.5","Submitted via API.","cc89ea03-3311-3d40-c977-3aab896906ff"
+26.3.2020, 00:58:22,"XBTUSD","Trade","Buy","500","6713","-7448000","0.00075","5586","Stop","500","0","6713","Triggered: Order stop price reached
+Submitted via API.","f23b5879-d727-e571-a74d-60cb21f99faa"
+25.3.2020, 11:19:57,"XBTUSD","Trade","Sell","500","6865","7283500","0.00075","5462","Stop","500","0","6865","Triggered: Order stop price reached
+Submitted via API.","dcefa372-314a-9ede-31d7-786fb0b9ccb5"
+25.3.2020, 09:59:08,"XBTUSD","Trade","Buy","500","6835.5","-7315000","0.00075","5486","Stop","500","0","6835.5","Triggered: Order stop price reached
+Submitted via API.","9899808e-b1ce-f9c2-7f27-8358754ab76b"
+24.3.2020, 11:10:13,"XBTUSD","Trade","Sell","500","6771.5","7384000","0.00075","5538","Stop","500","0","6771.5","Triggered: Order stop price reached
+Submitted via API.","56159ba0-594f-1d28-ac27-7e1e8b834f78"
+24.3.2020, 09:19:57,"XBTUSD","Trade","Buy","500","6718","-7442500","0.00075","5581","Stop","500","0","6718","Triggered: Order stop price reached
+Submitted via API.","bb3c9370-2452-725d-ee93-43b3ef64316b"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","11","6277","175241","0.00075","131","Stop","500","0","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","50","6277","796550","0.00075","597","Stop","500","11","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","110","6277","1752410","0.00075","1314","Stop","500","61","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","100","6277","1593100","0.00075","1194","Stop","500","171","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","20","6277","318620","0.00075","238","Stop","500","271","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","20","6277","318620","0.00075","238","Stop","500","291","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","20","6277","318620","0.00075","238","Stop","500","311","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 15:00:44,"XBTUSD","Trade","Sell","169","6277","2692339","0.00075","2019","Stop","500","331","6277","Triggered: Order stop price reached
+Submitted via API.","bef32786-685f-6c15-7283-f9d4d4593676"
+23.3.2020, 13:10:42,"XBTUSD","Trade","Buy","500","6000","-8333500","0.00075","6250","Stop","500","0","6000","Triggered: Order stop price reached
+Submitted via API.","122db3b3-6f0a-a7a2-11a9-dd0b2d7e6689"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","145","6311","2297525","0.00075","1723","Stop","500","0","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","17","6311","269365","0.00075","202","Stop","500","145","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","17","6311","269365","0.00075","202","Stop","500","162","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","17","6311","269365","0.00075","202","Stop","500","179","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","17","6311","269365","0.00075","202","Stop","500","196","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 22:36:29,"XBTUSD","Trade","Sell","287","6311","4547515","0.00075","3410","Stop","500","213","6311","Triggered: Order stop price reached
+Submitted via API.","6a6f2d97-cbcd-91d9-09f0-c02155b17b52"
+21.3.2020, 21:49:43,"XBTUSD","Trade","Buy","500","6374.5","-7844000","0.00075","5883","Stop","500","0","6374.5","Triggered: Order stop price reached
+Submitted via API.","c1b09c2d-561a-1600-6cef-c182fb603531"
+20.3.2020, 11:00:28,"XBTUSD","Trade","Sell","500","6745","7413000","0.00075","5559","Stop","500","0","6745","Triggered: Order stop price reached
+Submitted via API.","c97e17a2-b1d9-e66b-2290-c5fc6a92aab9"
+20.3.2020, 09:11:28,"XBTUSD","Trade","Buy","500","6472","-7725500","0.00075","5794","Stop","500","0","6472","Triggered: Order stop price reached
+Submitted via API.","becf0926-f121-75b5-5fba-71520241b5c6"
+15.3.2020, 22:23:18,"XBTUSD","Trade","Sell","500","5544","9019000","0.00075","6764","Stop","500","0","5544","Triggered: Order stop price reached
+Submitted via API.","033490db-cc16-ca3f-09f6-b545125f398b"
+15.3.2020, 22:22:57,"XBTUSD","Trade","Buy","500","5600","-8928500","0.00075","6696","Stop","500","0","5600","Triggered: Order stop price reached
+Submitted via API.","9679d988-9e2f-4090-c536-7277a408216f"
+15.3.2020, 13:26:27,"XBTUSD","Trade","Sell","500","5459","9159000","0.00075","6869","Stop","500","0","5459","Triggered: Order stop price reached
+Submitted via API.","fa947870-def8-3304-4aa2-5da87a378360"
+15.3.2020, 13:15:44,"XBTUSD","Trade","Buy","500","5515","-9066000","0.00075","6799","Stop","500","0","5515","Triggered: Order stop price reached
+Submitted via API.","1b465dd4-414e-5caf-914d-8724cef84b4e"
+12.3.2020, 01:42:33,"XBTUSD","Trade","Sell","500","7911","6320500","0.00075","4740","Stop","500","0","7911","Triggered: Order stop price reached
+Submitted via API.","b415bdcb-2924-ed6e-c688-2342ceebee0e"
+11.3.2020, 23:34:50,"XBTUSD","Trade","Buy","96","7907","-1214112","0.00075","910","Stop","500","0","7907","Triggered: Order stop price reached
+Submitted via API.","2b159f62-e068-0719-d00b-816bcead07b6"
+11.3.2020, 23:34:50,"XBTUSD","Trade","Buy","173","7907","-2187931","0.00075","1640","Stop","500","96","7907","Triggered: Order stop price reached
+Submitted via API.","2b159f62-e068-0719-d00b-816bcead07b6"
+11.3.2020, 23:34:50,"XBTUSD","Trade","Buy","18","7907","-227646","0.00075","170","Stop","500","269","7907","Triggered: Order stop price reached
+Submitted via API.","2b159f62-e068-0719-d00b-816bcead07b6"
+11.3.2020, 23:34:50,"XBTUSD","Trade","Buy","100","7907","-1264700","0.00075","948","Stop","500","287","7907","Triggered: Order stop price reached
+Submitted via API.","2b159f62-e068-0719-d00b-816bcead07b6"
+11.3.2020, 23:34:50,"XBTUSD","Trade","Buy","113","7907","-1429111","0.00075","1071","Stop","500","387","7907","Triggered: Order stop price reached
+Submitted via API.","2b159f62-e068-0719-d00b-816bcead07b6"
+10.3.2020, 14:43:31,"XBTUSD","Trade","Sell","500","8026","6230000","0.00075","4672","Stop","500","0","8026","Triggered: Order stop price reached
+Submitted via API.","64b389c3-1774-1b8a-75c2-604372e248f0"
+10.3.2020, 13:00:00,"XBTUSD","Funding","","500","8072.14","-6194000","0.0001","619","Limit","500","0","8072.14","Funding","00000000-0000-0000-0000-000000000000"
+10.3.2020, 11:33:26,"XBTUSD","Trade","Buy","500","7953","-6287000","0.00075","4715","Stop","500","0","7953","Triggered: Order stop price reached
+Submitted via API.","a2a1f7e5-c7fb-95cb-9444-d6d1672b9de3"
+7.3.2020, 17:41:45,"XBTUSD","Trade","Sell","500","9072","5511500","0.00075","4133","Stop","500","0","9072","Triggered: Order stop price reached
+Submitted via API.","c2e4ae29-7eb2-4704-347a-a2c84699db6c"
+7.3.2020, 17:37:41,"XBTUSD","Trade","Buy","500","9165.5","-5455000","0.00075","4091","Stop","500","0","9165.5","Triggered: Order stop price reached
+Submitted via API.","da4c5516-b2b3-2f49-bbe8-e080ca0d2805"
+6.3.2020, 13:00:21,"XBTUSD","Trade","Sell","500","9143","5468500","0.00075","4101","Market","500","0","9143","Submitted via API.","e83b5822-7c56-19f9-34ff-a04e001024cc"
+6.3.2020, 13:00:00,"XBTUSD","Funding","","500","9143.82","-5468000","0.0001","547","Limit","500","0","9143.82","Funding","00000000-0000-0000-0000-000000000000"
+6.3.2020, 12:03:46,"XBTUSD","Trade","Buy","500","9171","-5452000","0.00075","4089","Stop","500","0","9171","Triggered: Order stop price reached
+Submitted via API.","ba4090a4-dc3b-2880-87ee-3c6da084e7d5"
+5.3.2020, 07:00:18,"XBTUSD","Trade","Sell","500","8953","5584500","0.00075","4188","Market","500","0","8953","Submitted via API.","6f752dd8-b614-df18-215d-691d0026192e"
+5.3.2020, 05:00:00,"XBTUSD","Funding","","500","8883.08","-5628500","0.0001","563","Limit","500","0","8883.08","Funding","00000000-0000-0000-0000-000000000000"
+5.3.2020, 01:38:38,"XBTUSD","Trade","Buy","500","8870","-5637000","0.00075","4227","Stop","500","0","8870","Triggered: Order stop price reached
+Submitted via API.","a69b3aad-974b-d8ca-f013-4f14c3efd436"
+3.3.2020, 13:56:07,"XBTUSD","Trade","Sell","500","8802","5680500","0.00075","4260","Stop","500","0","8802","Triggered: Order stop price reached
+Submitted via API.","a16accb6-515c-19d6-991c-5e472bdf549e"
+3.3.2020, 13:01:06,"XBTUSD","Trade","Buy","500","8891","-5623500","0.00075","4217","Stop","500","0","8891","Triggered: Order stop price reached
+Submitted via API.","b9f5a8ae-bea5-f474-dd02-9a9a9680234b"
+2.3.2020, 13:00:27,"XBTUSD","Trade","Sell","500","8760","5708000","0.00075","4281","Market","500","0","8760","Submitted via API.","61ada4bb-dadb-9c9e-be7f-d537c21bd60f"
+2.3.2020, 13:00:00,"XBTUSD","Funding","","500","8754.42","-5711500","0.000409","2336","Limit","500","0","8754.42","Funding","00000000-0000-0000-0000-000000000000"
+2.3.2020, 12:47:13,"XBTUSD","Trade","Buy","500","8769.5","-5701500","0.00075","4276","Stop","500","0","8769.5","Triggered: Order stop price reached
+Submitted via API.","c97cec00-8206-3c6e-e6b6-21f7a90db72a"
+1.3.2020, 13:50:10,"XBTUSD","Trade","Sell","500","8590","5820500","0.00075","4365","Stop","500","0","8590","Triggered: Order stop price reached
+Submitted via API.","415c1dbd-9cd2-6aff-1692-27cdb8e413a5"
+1.3.2020, 13:00:37,"XBTUSD","Trade","Buy","82","8677","-945050","0.00075","708","Stop","500","0","8677","Triggered: Order stop price reached
+Submitted via API.","0308b071-dd8a-40b0-43d5-618a131d35b5"
+1.3.2020, 13:00:37,"XBTUSD","Trade","Buy","418","8677","-4817450","0.00075","3613","Stop","500","82","8677","Triggered: Order stop price reached
+Submitted via API.","0308b071-dd8a-40b0-43d5-618a131d35b5"
+26.2.2020, 14:48:19,"XBTUSD","Trade","Sell","500","9133","5474500","0.00075","4105","Stop","500","0","9133","Triggered: Order stop price reached
+Submitted via API.","5fa52659-05e2-397e-fb2c-ab0784ee579c"
+26.2.2020, 13:15:26,"XBTUSD","Trade","Buy","500","9225","-5420000","0.00075","4065","Stop","500","0","9225","Triggered: Order stop price reached
+Submitted via API.","145cc05c-3e7e-e731-aa80-119cccd31faf"
+25.2.2020, 14:21:35,"XBTUSD","Trade","Sell","500","9583","5217500","0.00075","3913","Stop","500","0","9583","Triggered: Order stop price reached
+Submitted via API.","e4e27af9-7e46-6841-b1b9-63e0ac8080dd"
+25.2.2020, 13:01:42,"XBTUSD","Trade","Buy","500","9680","-5165500","0.00075","3874","Stop","500","0","9680","Triggered: Order stop price reached
+Submitted via API.","a3379360-6516-75cb-d8ac-7779a6199434"
+24.2.2020, 14:37:33,"XBTUSD","Trade","Sell","500","9782","5111500","0.00075","3833","Stop","500","0","9782","Triggered: Order stop price reached
+Submitted via API.","7413e505-1dfc-9a82-67bc-7d346e4ff120"
+24.2.2020, 13:00:00,"XBTUSD","Funding","","500","9819.67","-5092000","0.0001","509","Limit","500","0","9819.67","Funding","00000000-0000-0000-0000-000000000000"
+24.2.2020, 12:24:05,"XBTUSD","Trade","Buy","500","9785","-5110000","0.00075","3832","Stop","500","0","9785","Triggered: Order stop price reached
+Submitted via API.","d050441b-174d-fcf4-6277-bd4acc2fb781"
+22.2.2020, 19:00:30,"XBTUSD","Trade","Sell","500","9673.5","5169000","0.00075","3876","Market","500","0","9673.5","Submitted via API.","7d51e8eb-49b6-4b6d-3103-d68861976dbd"
+22.2.2020, 18:00:58,"XBTUSD","Trade","Buy","500","9688.5","-5161000","0.00075","3870","Stop","500","0","9688.5","Triggered: Order stop price reached
+Submitted via API.","322f9859-e981-20a8-c65b-aa278ef59143"
+21.2.2020, 06:18:06,"XBTUSD","Trade","Sell","462","9675","4775232","0.00075","3581","Stop","500","0","9675","Triggered: Order stop price reached
+Submitted via API.","4d9bf554-72bf-af20-472a-b407c5d4447b"
+21.2.2020, 06:18:06,"XBTUSD","Trade","Sell","38","9675","392768","0.00075","294","Stop","500","462","9675","Triggered: Order stop price reached
+Submitted via API.","4d9bf554-72bf-af20-472a-b407c5d4447b"
+21.2.2020, 05:00:00,"XBTUSD","Funding","","500","9716.28","-5146000","0.0001","515","Limit","500","0","9716.28","Funding","00000000-0000-0000-0000-000000000000"
+21.2.2020, 04:25:53,"XBTUSD","Trade","Buy","500","9693","-5158500","0.00075","3868","Stop","500","0","9693","Triggered: Order stop price reached
+Submitted via API.","9134d313-4d29-2b35-8004-d20958732045"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","113","9558","1182206","0.00075","886","Stop","500","0","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","60","9558","627720","0.00075","470","Stop","500","113","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","200","9558","2092400","0.00075","1569","Stop","500","173","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","27","9558","282474","0.00075","211","Stop","500","373","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","50","9558","523100","0.00075","392","Stop","500","400","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 18:13:16,"XBTUSD","Trade","Sell","50","9558","523100","0.00075","392","Stop","500","450","9558","Triggered: Order stop price reached
+Submitted via API.","bf74dc8f-ece4-09de-d031-d772e0af6f87"
+20.2.2020, 17:46:06,"XBTUSD","Trade","Buy","500","9655","-5178500","0.00075","3883","Stop","500","0","9655","Triggered: Order stop price reached
+Submitted via API.","444f2b00-f07a-624d-c520-4add543d008f"
+19.2.2020, 13:03:49,"XBTUSD","Trade","Sell","500","10193","4905500","0.00075","3679","Stop","500","0","10193","Triggered: Order stop price reached
+Submitted via API.","477d7d6e-68a8-4e0a-e832-5258c186725f"
+19.2.2020, 13:00:00,"XBTUSD","Funding","","500","10234.34","-4885500","0.00056","2736","Limit","500","0","10234.34","Funding","00000000-0000-0000-0000-000000000000"
+19.2.2020, 12:57:42,"XBTUSD","Trade","Buy","500","10205","-4899500","0.00075","3674","Stop","500","0","10205","Triggered: Order stop price reached
+Submitted via API.","53ae43f2-7a6a-e336-01d2-c4bb8e035a62"
+18.2.2020, 21:00:28,"XBTUSD","Trade","Sell","500","10085.5","4957500","0.00075","3718","Market","500","0","10085.5","Submitted via API.","ecf93c6c-a5bc-eb66-3456-71a3105c67d3"
+18.2.2020, 21:00:00,"XBTUSD","Funding","","500","10068.63","-4966000","0.0001","497","Limit","500","0","10068.63","Funding","00000000-0000-0000-0000-000000000000"
+18.2.2020, 16:24:36,"XBTUSD","Trade","Buy","500","9855","-5073500","0.00075","3805","Stop","500","0","9855","Triggered: Order stop price reached
+Submitted via API.","49534d04-a936-6385-b061-086803b68676"
+17.2.2020, 01:00:06,"XBTUSD","Trade","Sell","500","9934","5033000","0.00075","3774","Market","500","0","9934","Submitted via API.","62efbef0-98c7-4510-3f31-1b0482d441e8"
+17.2.2020, 00:46:21,"XBTUSD","Trade","Buy","500","9983.5","-5008500","0.00075","3756","Stop","500","0","9983.5","Triggered: Order stop price reached
+Submitted via API.","33e9f12d-e8d2-7cc3-8c98-c607ad2d7cfe"
+14.2.2020, 13:00:22,"XBTUSD","Trade","Sell","500","10282.5","4862500","0.00075","3646","Market","500","0","10282.5","Submitted via API.","4bf7dd60-94da-b439-2b0a-7821792bc55a"
+14.2.2020, 13:00:00,"XBTUSD","Funding","","500","10261.77","-4872500","0.000473","2305","Limit","500","0","10261.77","Funding","00000000-0000-0000-0000-000000000000"
+14.2.2020, 11:34:52,"XBTUSD","Trade","Buy","500","10289.5","-4859500","0.00075","3644","Stop","500","0","10289.5","Triggered: Order stop price reached
+Submitted via API.","087e7624-f1ca-ef9d-ed73-984bcd3f6fda"
+13.2.2020, 14:59:08,"XBTUSD","Trade","Sell","500","10422","4797500","0.00075","3598","Stop","500","0","10422","Triggered: Order stop price reached
+Submitted via API.","8d97e4c1-b01f-fcef-a030-bb9bb4fa1397"
+13.2.2020, 14:41:06,"XBTUSD","Trade","Buy","500","10532","-4747500","0.00075","3560","Stop","500","0","10532","Triggered: Order stop price reached
+Submitted via API.","39962e35-e8af-5a39-c291-ea43f0c8549b"
+12.2.2020, 09:01:16,"XBTUSD","Trade","Sell","500","10373","4820000","0.00075","3615","Stop","500","0","10373","Triggered: Order stop price reached
+Submitted via API.","759641cd-b11e-53ca-a326-d31f5eadad2f"
+12.2.2020, 08:41:23,"XBTUSD","Trade","Buy","500","10400","-4807500","0.00075","3605","Stop","500","0","10400","Triggered: Order stop price reached
+Submitted via API.","32e389c3-dcea-e6cb-26cb-a36f6120e0ec"
+11.2.2020, 15:00:19,"XBTUSD","Trade","Sell","500","9877.5","5062000","0.00075","3796","Market","500","0","9877.5","Submitted via API.","a6313a51-4526-30fe-33e1-816f725c4cdb"
